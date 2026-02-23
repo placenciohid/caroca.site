@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(cd:*)",
+      "Bash(py:*)",
+      "WebSearch",
+      "WebFetch(domain:fuselabcreative.com)",
+      "WebFetch(domain:kerrykolosko.com)",
+      "WebFetch(domain:careerfoundry.com)",
+      "WebFetch(domain:juiceanalytics.com)",
+      "WebFetch(domain:agencyanalytics.com)",
+      "WebFetch(domain:posit.co)",
+      "WebFetch(domain:www.refontelearning.com)",
+      "WebFetch(domain:www.storytellingwithdata.com)",
+      "mcp__ide__getDiagnostics",
+      "WebFetch(domain:developers.cloudflare.com)"
+    ]
+  }
+}
